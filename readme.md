@@ -7,3 +7,10 @@ For hiding secret information in images, there exists a large variety of stegano
 Different applications have different requirements of the steganography tech nique used.
 For example, some applications may require absolute invisibility of the secret information, while others require a larger secret message to be hidden.
 This report intended to give an overview of Steganography, its use sand techniques.
+
+
+-----------
+Collaborators:
+	- Dilip Puri @dilippuri
+	- Kushal Jangid @Kushal08
+	- Raghuvar Prajapati @Raghuvar
